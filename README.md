@@ -1,2 +1,4 @@
 # Calculator
-Java Calculator with basic functionalities
+Java Calculator with basic functionalities, build with Swing.
+
+
